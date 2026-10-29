@@ -1,0 +1,10 @@
+</main>
+<footer class="footer">
+  <div class="container footer-inner">
+    <span><strong>CampusPass</strong> - event registration and ticketing</span>
+    <span>Servlet, JSP and JDBC project by Kushagra, MCA 2026-28, Chandigarh University</span>
+  </div>
+</footer>
+<script src="${ctx}/assets/js/app.js"></script>
+</body>
+</html>
